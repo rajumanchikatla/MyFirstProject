@@ -4,8 +4,8 @@ import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.springframework.stereotype.Component;
 
-@Aspect
-@Component
+//@Aspect
+//@Component
 public class MyDemoLoggingAspect {
 
 	//this is where we add all of our advices for logging 
